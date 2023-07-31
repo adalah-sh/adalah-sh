@@ -1,33 +1,33 @@
-
-
-<!--
 ### Hi there 👋
 
+<p>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=+I'm+Abdullah+Alsharif++;Full-Stack+Developer++)](https://git.io/typing-svg)
+ 
+</P>
 
-
-**adalah-sh/adalah-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Abdullah Alsharif</h1>
-<h3 align="center">Software Engineer</h3>
-
-- 📫 How to reach me **adalah.sh00@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3> ⚙️ &nbsp;GitHub Analytics</h3>
+<p align="center">
+<a href="https://github.com/adalah-sh">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adalah-sh&show_icons=true&theme=dark&count_private=true"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adalah-sh&layout=compact&langs_count=10&count_private=true&theme=dark"/> -->
+</a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adalah-sh&show_icons=true&locale=en" alt="adalah-sh" /></p>
+<br/>
+<p align="center">
+### 📫 Reach me:
+<p align="center">
+  <a href="adalah.sh00@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="30" style="margin-right:10px;" /></a>
+  <a href="https://www.linkedin.com/in/abdullah-alsharif-62789a248/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" height="30" style="margin-right:10px;" /></a>
+  <a href="https://twitter.com/_abdullah__sh_"><img src="https://img.icons8.com/color/48/000000/twitter.png" height="30" style="margin-right:10px;" /></a>
+  <a href="https://www.instagram.com/abdullah_saeed_alsharif/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" height="30" style="margin-right:10px;" /></a>
+  <!-- discord -->
+  <a href="https://discord.com/users/abdullahalsharif/"><img src="https://img.icons8.com/color/48/000000/discord-new-logo.png" height="30" style="margin-right:10px;" /></a>
+  <a href="https://wa.me/+972592065010"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" height="30" style="margin-right:10px;" /></a>
+</p>
+# Code Challenge Profiles:
+<p align="center">
+  <a href="https://www.codewars.com/users/Abdu11ah-A1sharif"><img src="https://www.codewars.com/users/Abdu11ah-A1sharif/badges/micro" height="30" style="margin-right:10px;" /></a>
+  <a href="https://leetcode.com/adalah/"><img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" height="30" style="margin-right:10px;" /></a>
+</p>
+</p>
