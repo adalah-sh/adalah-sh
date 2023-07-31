@@ -18,11 +18,10 @@
  
 ### 📫 Reach me:
 <p align="center">
-  <a href="adalah.sh00@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="30" style="margin-right:10px;" /></a>
-  <a href="https://www.linkedin.com/in/abdullah-alsharif-62789a248/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" height="30" style="margin-right:10px;" /></a>
+ <a href="mailto:adalah.sh00@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="30" style="margin-right:10px;" /></a> 
+ <a href="https://www.linkedin.com/in/abdullah-alsharif-62789a248/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" height="30" style="margin-right:10px;" /></a>
   <a href="https://twitter.com/_abdullah__sh_"><img src="https://img.icons8.com/color/48/000000/twitter.png" height="30" style="margin-right:10px;" /></a>
   <a href="https://www.instagram.com/abdullah_saeed_alsharif/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" height="30" style="margin-right:10px;" /></a>
-  <!-- discord -->
   <a href="https://discord.com/users/abdullahalsharif/"><img src="https://img.icons8.com/color/48/000000/discord-new-logo.png" height="30" style="margin-right:10px;" /></a>
   <a href="https://wa.me/+972592065010"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" height="30" style="margin-right:10px;" /></a>
 </p>
